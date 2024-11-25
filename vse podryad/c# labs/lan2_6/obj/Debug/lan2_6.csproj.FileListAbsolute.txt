@@ -1,0 +1,10 @@
+C:\Users\Kudra\Desktop\c# labs\lan2_6\bin\Debug\lan2_6.exe.config
+C:\Users\Kudra\Desktop\c# labs\lan2_6\bin\Debug\lan2_6.exe
+C:\Users\Kudra\Desktop\c# labs\lan2_6\bin\Debug\lan2_6.pdb
+C:\Users\Kudra\Desktop\c# labs\lan2_6\obj\Debug\lan2_6.csproj.AssemblyReference.cache
+C:\Users\Kudra\Desktop\c# labs\lan2_6\obj\Debug\lan2_6.Form1.resources
+C:\Users\Kudra\Desktop\c# labs\lan2_6\obj\Debug\lan2_6.Properties.Resources.resources
+C:\Users\Kudra\Desktop\c# labs\lan2_6\obj\Debug\lan2_6.csproj.GenerateResource.cache
+C:\Users\Kudra\Desktop\c# labs\lan2_6\obj\Debug\lan2_6.csproj.CoreCompileInputs.cache
+C:\Users\Kudra\Desktop\c# labs\lan2_6\obj\Debug\lan2_6.exe
+C:\Users\Kudra\Desktop\c# labs\lan2_6\obj\Debug\lan2_6.pdb

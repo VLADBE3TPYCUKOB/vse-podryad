@@ -1,0 +1,14 @@
+C:\Users\Kudra\Desktop\c# labs\lab1_7\bin\Debug\net6.0\lab1_7.exe
+C:\Users\Kudra\Desktop\c# labs\lab1_7\bin\Debug\net6.0\lab1_7.deps.json
+C:\Users\Kudra\Desktop\c# labs\lab1_7\bin\Debug\net6.0\lab1_7.runtimeconfig.json
+C:\Users\Kudra\Desktop\c# labs\lab1_7\bin\Debug\net6.0\lab1_7.dll
+C:\Users\Kudra\Desktop\c# labs\lab1_7\bin\Debug\net6.0\lab1_7.pdb
+C:\Users\Kudra\Desktop\c# labs\lab1_7\obj\Debug\net6.0\lab1_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kudra\Desktop\c# labs\lab1_7\obj\Debug\net6.0\lab1_7.AssemblyInfoInputs.cache
+C:\Users\Kudra\Desktop\c# labs\lab1_7\obj\Debug\net6.0\lab1_7.AssemblyInfo.cs
+C:\Users\Kudra\Desktop\c# labs\lab1_7\obj\Debug\net6.0\lab1_7.csproj.CoreCompileInputs.cache
+C:\Users\Kudra\Desktop\c# labs\lab1_7\obj\Debug\net6.0\lab1_7.dll
+C:\Users\Kudra\Desktop\c# labs\lab1_7\obj\Debug\net6.0\refint\lab1_7.dll
+C:\Users\Kudra\Desktop\c# labs\lab1_7\obj\Debug\net6.0\lab1_7.pdb
+C:\Users\Kudra\Desktop\c# labs\lab1_7\obj\Debug\net6.0\lab1_7.genruntimeconfig.cache
+C:\Users\Kudra\Desktop\c# labs\lab1_7\obj\Debug\net6.0\ref\lab1_7.dll
