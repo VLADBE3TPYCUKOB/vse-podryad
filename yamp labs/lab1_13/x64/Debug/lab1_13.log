@@ -1,0 +1,2 @@
+﻿lab1_13.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: void __cdecl LexicalAnalyzer::lexAnBeg(void)" (?lexAnBeg@LexicalAnalyzer@@QEAAXXZ) в функции main.
+C:\Users\Kudra\Desktop\yamp labs\lab1_13\x64\Debug\lab1_13.exe : fatal error LNK1120: неразрешенных внешних элементов: 1

@@ -1,0 +1,10 @@
+PROGRAM 1
+INTEGER a, b, d
+COMPLEX С
+a = 2
+b = 4
+с = (3,3)
+d = a - b
+CMPLX(a,b) 
+CABS(c) 
+END 1
