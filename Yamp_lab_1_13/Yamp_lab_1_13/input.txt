@@ -1,0 +1,9 @@
+PROGRAM Start 
+INTEGER X, Y, c, adc, iop 
+COMPLEX a, b, z, comp, test 
+iop = 9 + ( c - 3 )
+a = (2,3) + b 
+adc = CABS(z - (comp + (test - (4,8)))) - Y + 14 + c 
+test = CMPLX(adc,X + 17) - (22,11) + z + comp 
+adc = CABS(a)
+END Start 

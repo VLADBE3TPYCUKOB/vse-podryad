@@ -1,0 +1,15 @@
+﻿  Parser.cpp
+C:\Users\Kudra\OneDrive\Рабочий стол\Yamp_lab_1_13\Yamp_lab_1_13\Parser.cpp(19,40): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kudra\OneDrive\Рабочий стол\Yamp_lab_1_13\Yamp_lab_1_13\Parser.cpp(22,45): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kudra\OneDrive\Рабочий стол\Yamp_lab_1_13\Yamp_lab_1_13\Parser.cpp(25,42): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kudra\OneDrive\Рабочий стол\Yamp_lab_1_13\Yamp_lab_1_13\Parser.cpp(28,36): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kudra\OneDrive\Рабочий стол\Yamp_lab_1_13\Yamp_lab_1_13\Parser.cpp(61,42): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kudra\OneDrive\Рабочий стол\Yamp_lab_1_13\Yamp_lab_1_13\Parser.cpp(73,48): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kudra\OneDrive\Рабочий стол\Yamp_lab_1_13\Yamp_lab_1_13\Parser.cpp(118,39): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kudra\OneDrive\Рабочий стол\Yamp_lab_1_13\Yamp_lab_1_13\Parser.cpp(137,41): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kudra\OneDrive\Рабочий стол\Yamp_lab_1_13\Yamp_lab_1_13\Parser.cpp(153,47): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kudra\OneDrive\Рабочий стол\Yamp_lab_1_13\Yamp_lab_1_13\Parser.cpp(170,45): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kudra\OneDrive\Рабочий стол\Yamp_lab_1_13\Yamp_lab_1_13\Parser.cpp(184,41): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kudra\OneDrive\Рабочий стол\Yamp_lab_1_13\Yamp_lab_1_13\Parser.cpp(220,45): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kudra\OneDrive\Рабочий стол\Yamp_lab_1_13\Yamp_lab_1_13\Parser.cpp(225,49): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Yamp_lab_1_13.vcxproj -> C:\Users\Kudra\OneDrive\Рабочий стол\Yamp_lab_1_13\x64\Debug\Yamp_lab_1_13.exe

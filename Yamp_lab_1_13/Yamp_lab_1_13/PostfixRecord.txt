@@ -1,0 +1,7 @@
+INTEGER X Y c adc iop 6 DECL 
+COMPLEX a b z comp test 6 DECL 
+iop 9 c 3 - + = 
+a (2,3) b + = 
+adc CABS z comp test (4,8) - + - CALL Y - 14 + c + = 
+test CMPLX adc X 17 + CALL (22,11) - z + comp + = 
+adc CABS a CALL = 

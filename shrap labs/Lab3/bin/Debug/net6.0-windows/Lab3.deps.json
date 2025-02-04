@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Lab3/1.0.0": {
+        "dependencies": {
+          "ZedGraph": "5.1.5.28844"
+        },
+        "runtime": {
+          "Lab3.dll": {}
+        }
+      },
+      "ZedGraph/5.1.5.28844": {
+        "runtime": {
+          "ZedGraph.dll": {
+            "assemblyVersion": "5.1.5.28844",
+            "fileVersion": "5.1.5.28844"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ZedGraph/5.1.5.28844": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

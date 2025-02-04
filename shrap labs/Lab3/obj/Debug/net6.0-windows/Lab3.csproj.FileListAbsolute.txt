@@ -1,0 +1,44 @@
+C:\Users\Евгений\Desktop\Visualka_projects\Lab3\bin\Debug\net6.0-windows\Lab3.exe
+C:\Users\Евгений\Desktop\Visualka_projects\Lab3\bin\Debug\net6.0-windows\Lab3.deps.json
+C:\Users\Евгений\Desktop\Visualka_projects\Lab3\bin\Debug\net6.0-windows\Lab3.runtimeconfig.json
+C:\Users\Евгений\Desktop\Visualka_projects\Lab3\bin\Debug\net6.0-windows\Lab3.dll
+C:\Users\Евгений\Desktop\Visualka_projects\Lab3\bin\Debug\net6.0-windows\Lab3.pdb
+C:\Users\Евгений\Desktop\Visualka_projects\Lab3\obj\Debug\net6.0-windows\Lab3.Menu.resources
+C:\Users\Евгений\Desktop\Visualka_projects\Lab3\obj\Debug\net6.0-windows\Lab3.csproj.GenerateResource.cache
+C:\Users\Евгений\Desktop\Visualka_projects\Lab3\obj\Debug\net6.0-windows\Lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Евгений\Desktop\Visualka_projects\Lab3\obj\Debug\net6.0-windows\Lab3.AssemblyInfoInputs.cache
+C:\Users\Евгений\Desktop\Visualka_projects\Lab3\obj\Debug\net6.0-windows\Lab3.AssemblyInfo.cs
+C:\Users\Евгений\Desktop\Visualka_projects\Lab3\obj\Debug\net6.0-windows\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\Desktop\Visualka_projects\Lab3\obj\Debug\net6.0-windows\Lab3.dll
+C:\Users\Евгений\Desktop\Visualka_projects\Lab3\obj\Debug\net6.0-windows\refint\Lab3.dll
+C:\Users\Евгений\Desktop\Visualka_projects\Lab3\obj\Debug\net6.0-windows\Lab3.pdb
+C:\Users\Евгений\Desktop\Visualka_projects\Lab3\obj\Debug\net6.0-windows\Lab3.genruntimeconfig.cache
+C:\Users\Евгений\Desktop\Visualka_projects\Lab3\obj\Debug\net6.0-windows\ref\Lab3.dll
+C:\Users\Евгений\Desktop\Visualka_projects\Lab3\obj\Debug\net6.0-windows\Lab3.Zed_Draw.resources
+C:\Users\Евгений\Desktop\Visualka_projects\Lab3\obj\Debug\net6.0-windows\Lab3.System_Draw.resources
+C:\Users\Евгений\Desktop\Visualka_projects\Lab3\obj\Debug\net6.0-windows\Lab3.Euler.resources
+C:\Users\Евгений\Desktop\Visualka_projects\Lab3\bin\Debug\net6.0-windows\ZedGraph.dll
+C:\Users\Евгений\Desktop\Visualka_projects\Lab3\obj\Debug\net6.0-windows\Lab3.csproj.AssemblyReference.cache
+C:\Users\Евгений\Desktop\Visualka_projects\Lab3\obj\Debug\net6.0-windows\Lab3.csproj.CopyComplete
+C:\Users\Kudra\OneDrive\Рабочий стол\shrap labs\Lab3\bin\Debug\net6.0-windows\Lab3.exe
+C:\Users\Kudra\OneDrive\Рабочий стол\shrap labs\Lab3\bin\Debug\net6.0-windows\Lab3.deps.json
+C:\Users\Kudra\OneDrive\Рабочий стол\shrap labs\Lab3\bin\Debug\net6.0-windows\Lab3.runtimeconfig.json
+C:\Users\Kudra\OneDrive\Рабочий стол\shrap labs\Lab3\bin\Debug\net6.0-windows\Lab3.dll
+C:\Users\Kudra\OneDrive\Рабочий стол\shrap labs\Lab3\bin\Debug\net6.0-windows\Lab3.pdb
+C:\Users\Kudra\OneDrive\Рабочий стол\shrap labs\Lab3\bin\Debug\net6.0-windows\ZedGraph.dll
+C:\Users\Kudra\OneDrive\Рабочий стол\shrap labs\Lab3\obj\Debug\net6.0-windows\Lab3.csproj.AssemblyReference.cache
+C:\Users\Kudra\OneDrive\Рабочий стол\shrap labs\Lab3\obj\Debug\net6.0-windows\Lab3.Euler.resources
+C:\Users\Kudra\OneDrive\Рабочий стол\shrap labs\Lab3\obj\Debug\net6.0-windows\Lab3.Menu.resources
+C:\Users\Kudra\OneDrive\Рабочий стол\shrap labs\Lab3\obj\Debug\net6.0-windows\Lab3.System_Draw.resources
+C:\Users\Kudra\OneDrive\Рабочий стол\shrap labs\Lab3\obj\Debug\net6.0-windows\Lab3.Zed_Draw.resources
+C:\Users\Kudra\OneDrive\Рабочий стол\shrap labs\Lab3\obj\Debug\net6.0-windows\Lab3.csproj.GenerateResource.cache
+C:\Users\Kudra\OneDrive\Рабочий стол\shrap labs\Lab3\obj\Debug\net6.0-windows\Lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kudra\OneDrive\Рабочий стол\shrap labs\Lab3\obj\Debug\net6.0-windows\Lab3.AssemblyInfoInputs.cache
+C:\Users\Kudra\OneDrive\Рабочий стол\shrap labs\Lab3\obj\Debug\net6.0-windows\Lab3.AssemblyInfo.cs
+C:\Users\Kudra\OneDrive\Рабочий стол\shrap labs\Lab3\obj\Debug\net6.0-windows\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\Kudra\OneDrive\Рабочий стол\shrap labs\Lab3\obj\Debug\net6.0-windows\Lab3.csproj.Up2Date
+C:\Users\Kudra\OneDrive\Рабочий стол\shrap labs\Lab3\obj\Debug\net6.0-windows\Lab3.dll
+C:\Users\Kudra\OneDrive\Рабочий стол\shrap labs\Lab3\obj\Debug\net6.0-windows\refint\Lab3.dll
+C:\Users\Kudra\OneDrive\Рабочий стол\shrap labs\Lab3\obj\Debug\net6.0-windows\Lab3.pdb
+C:\Users\Kudra\OneDrive\Рабочий стол\shrap labs\Lab3\obj\Debug\net6.0-windows\Lab3.genruntimeconfig.cache
+C:\Users\Kudra\OneDrive\Рабочий стол\shrap labs\Lab3\obj\Debug\net6.0-windows\ref\Lab3.dll
